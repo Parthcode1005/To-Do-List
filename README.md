@@ -1,2 +1,2 @@
 # To-Do-List
-A simple to-so list application using React.js.
+A simple to-do list application using React.js.
